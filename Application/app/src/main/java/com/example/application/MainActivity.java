@@ -96,7 +96,7 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
         }catch (Exception ex){
             ex.printStackTrace();
         }
-        // Loading the animation from SpinKitView
+        // Loading the animation from the SpinKitView
         ProgressBar progressBar = (ProgressBar)findViewById(R.id.progress);
         Sprite doubleBounce = new DoubleBounce();
         progressBar.setIndeterminateDrawable(doubleBounce);
