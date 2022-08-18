@@ -105,6 +105,12 @@ This project has three main steps:
 The application has been tested on a group of people aged 25, 27 and 45. The results of the above program were satisfactory. The application is very good at classifying activities with indexes 1, 3, 4 and 6, while it makes occasional errors when classifying activities with indexes 2 and 5. This model is an excellent basis for further research into creating a useful application for motion recognition.
 
 <h2 align="center" >
+   License
+</h2>
+
+[MIT License](https://github.com/mkowalsky97/Human_Activities_Recognition/blob/main/LICENSE.txt)
+
+<h2 align="center" >
   I'M GLAD FOR YOUR ATTENTION! 
    <img src="https://media.giphy.com/media/7TJXK0wFlYVeJYk3yH/giphy.gif" width="35px"/>
 </h2>
