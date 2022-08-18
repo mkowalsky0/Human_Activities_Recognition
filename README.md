@@ -1,1 +1,3 @@
-# Human_Activities_Recognition
+# Human Activities Recognition Application
+
+##Introdution
